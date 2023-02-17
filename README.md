@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Thamae Samuel 
-- 👀 I’m interested in software development  
-- 🌱 I’m currently learning PHP,Javascript,HTML and CSS 
+- 👀 I’m interested in software development  and Web Development
+- 🌱 I’m currently learning PHP,Javascript,HTML, C++, C# and CSS 
 - 💞️ I’m looking to collaborate on smaller and interesting projects at they will help me grow 
-- 📫 How to reach me on this email thamae.samuel@gmail.com 
+- 📫 How to reach me on this email thamae.samuel@outlook.com 
 
 <!---
 samCarter506/samCarter506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thamae Samuel 
 - 👀 I’m interested in software development  and Web Development
-- 🌱 I’m currently learning PHP,Javascript,HTML, C++, C# and CSS 
+- 🌱 I’m currently learning PHP,Javascript,HTML, C++, C#, Java and CSS 
 - 💞️ I’m looking to collaborate on smaller and interesting projects at they will help me grow 
 - 📫 How to reach me on this email thamae.samuel@outlook.com 
 
